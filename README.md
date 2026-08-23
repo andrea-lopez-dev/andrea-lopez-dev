@@ -26,6 +26,20 @@
 
 ---
 
+## 📑 Índice
+
+- [🚀 Perfil Profesional](#-perfil-profesional)
+- [🛠️ Habilidades Técnicas](#️-habilidades-técnicas)
+- [🏆 Trofeos de GitHub](#-trofeos-de-github)
+- [📊 Estadísticas de GitHub](#-estadísticas-de-github)
+- [💼 Experiencia Profesional](#-experiencia-profesional)
+- [🎓 Educación](#-educación)
+- [📜 Certificaciones](#-certificaciones)
+- [🌐 Idiomas](#-idiomas)
+- [📫 Contacto](#-contacto)
+
+---
+
 ## 🚀 Perfil Profesional
 
 Ingeniera en Informática con más de **3 años de experiencia** en análisis de sistemas, modelado de datos (3FN, ACID) y desarrollo Full Stack bajo metodologías ágiles. Combino una sólida arquitectura técnica (SOLID, MVC, Microservicios) con un enfoque centrado en la **Experiencia de Usuario (UX/UI)**, garantizando que las soluciones sean escalables, seguras y altamente intuitivas.
@@ -90,7 +104,9 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 ## 🏆 Trofeos de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrea-lopez-dev&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andrea-lopez-dev&theme=onedark&no-frame=true&column=7&row=1" 
+       alt="GitHub Trophies" 
+       width="100%" />
 </p>
 
 ---
@@ -98,8 +114,12 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea-lopez-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-lopez-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrea-lopez-dev&show_icons=true&theme=radical&hide_border=true" 
+       alt="GitHub Stats" 
+       width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-lopez-dev&layout=compact&theme=radical&hide_border=true" 
+       alt="Top Languages" 
+       width="48%" />
 </p>
 
 ---
