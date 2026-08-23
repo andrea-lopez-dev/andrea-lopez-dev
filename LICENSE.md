@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://andrea.lopez.dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portafolio-andrea.lopez.dev.vercel.app-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://andrea-lopez-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-andrea--lopez--dev.vercel.app-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -202,7 +202,7 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://andrea.lopez.dev.vercel.app">
+  <a href="https://andrea-lopez-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-Vercel-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:andrealopez192401@gmail.com">
