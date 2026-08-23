@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://andrea.lopez.dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-andrea.lopez.dev.vercel.app-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Maracaibo%2C%20Venezuela-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Email-andrealopez192401%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-andrea--lopez--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -196,6 +202,9 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 ## 📫 Contacto
 
 <p align="center">
+  <a href="https://andrea.lopez.dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-Vercel-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:andrealopez192401@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
