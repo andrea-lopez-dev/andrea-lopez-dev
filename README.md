@@ -36,7 +36,6 @@
 
 - [🚀 Perfil Profesional](#-perfil-profesional)
 - [🛠️ Habilidades Técnicas](#️-habilidades-técnicas)
-- [📊 Estadísticas de GitHub](#-estadísticas-de-github)
 - [💼 Experiencia Profesional](#-experiencia-profesional)
 - [🎓 Educación](#-educación)
 - [📜 Certificaciones](#-certificaciones)
@@ -106,76 +105,53 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea-lopez-dev&show_icons=true&theme=radical&hide_border=true" 
-       alt="GitHub Stats" 
-       width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-lopez-dev&layout=compact&theme=radical&hide_border=true" 
-       alt="Top Languages" 
-       width="48%" />
-</p>
-
----
-
 ## 💼 Experiencia Profesional
 
-### 🔹 Analista de Sistemas & Full Stack Developer
+### Analista de Sistemas & Full Stack Developer
 **SIGPAZ – Módulo de Justicia de Paz Comunal** | 07/2025 – 07/2026
 
 *Liderazgo técnico de equipo de 6 integrantes (Metodología FDD)*
 
-- 🔹 **Arquitectura Backend:** Implementación de principios SOLID, patrones GoF, Service Layer y Repository en Laravel (MVC backend + MVVM frontend).
-- 🔹 **Frontend SPA:** Desarrollo con Angular (RxJS, Lazy Loading, WebSockets) y modelos 3D con Three.js.
-- 🔹 **Seguridad Zero-Trust:** Implementación de JWT, Sanctum, MFA (OTP), RBAC, AES-256 y auditoría de eventos con patrón Observer.
-- 🔹 **IA Generativa:** Pipeline RAG con pgvector (búsqueda semántica) y asistente NLP/NLU.
-- 🔹 **Base de Datos:** Modelado en 3FN, ACID, e integración cloud (Supabase, Backblaze B2).
+- Arquitectura Backend con principios SOLID, patrones GoF, Service Layer y Repository en Laravel (MVC backend + MVVM frontend).
+- Frontend SPA con Angular (RxJS, Lazy Loading, WebSockets) y modelos 3D con Three.js.
+- Seguridad Zero-Trust con JWT, Sanctum, MFA (OTP), RBAC, AES-256 y auditoría de eventos con patrón Observer.
+- IA Generativa con Pipeline RAG (pgvector) y asistente NLP/NLU.
+- Base de datos en 3FN, ACID, e integración cloud (Supabase, Backblaze B2).
 
-**📊 Resultados:**
-
-| Métrica | Valor | Barra |
-|---------|-------|-------|
-| CSAT | 95.71% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-| SUS | 82.5/100 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
-| ROI | 819.088% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+**Resultados clave:**
+- CSAT: 95.71%
+- SUS: 82.5/100
+- ROI: 819.088% (5 años)
 
 ---
 
-### 🔹 Analista de Sistemas & Full Stack Developer
+### Analista de Sistemas & Full Stack Developer
 **SIGENOR – U.E. Nocturna Br. Rafael Rangel**
 
 *Liderazgo técnico de equipo de 6 personas (Metodología Waterfall)*
 
-- 🔹 **Sistema Académico:** Desarrollo con arquitectura MVC en PHP y MySQL.
-- 🔹 **Base de Datos:** Modelado normalizado en 3FN con propiedades ACID.
-- 🔹 **Reportes PDF:** Motor de boletines y reportes en PDF (FPDF) con visor interactivo.
+- Sistema académico con arquitectura MVC en PHP y MySQL.
+- Base de datos normalizada en 3FN con propiedades ACID.
+- Motor de reportes y boletines en PDF (FPDF) con visor interactivo.
 
-**📊 Resultados:**
-
-| Métrica | Valor | Barra |
-|---------|-------|-------|
-| Reducción de tiempo administrativo | 70% | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
-| Reducción de errores humanos | 85% | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
-| Reportes automáticos | 100% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+**Resultados clave:**
+- Reducción del 70% en tiempo administrativo
+- Reducción del 85% en errores humanos
+- 100% de reportes automáticos
 
 ---
 
-### 🔹 Analista de Sistemas & Full Stack Developer
+### Analista de Sistemas & Full Stack Developer
 **SIEP – Papelería ISA&CRIS**
 
 *Liderazgo técnico de equipo de 7 personas (Metodología XP)*
 
-- 🔹 **Plataforma E-commerce:** Desarrollo MVP con arquitectura MVC en PHP, MySQL, Ajax y JavaScript.
-- 🔹 **Módulos de Negocio:** Supply Chain, Ventas y Cálculo de IVA con lógica de negocio compleja.
-- 🔹 **Panel Administrativo:** Métricas, generación de códigos de barras (TCPDF), tickets de venta y comprobantes con numeración automática.
+- Plataforma E-commerce (MVP) con arquitectura MVC en PHP, MySQL, Ajax y JavaScript.
+- Módulos de Supply Chain, Ventas y Cálculo de IVA con lógica de negocio compleja.
+- Panel admin con métricas, generación de códigos de barras (TCPDF), tickets de venta y comprobantes con numeración automática.
 
-**📊 Resultados:**
-
-| Métrica | Valor | Barra |
-|---------|-------|-------|
-| Automatización de inventario | 100% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
-| Automatización de ventas | 100% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+**Resultados clave:**
+- 100% de automatización de inventario y ventas
 
 ---
 
