@@ -36,7 +36,7 @@
 
 - [🚀 Perfil Profesional](#-perfil-profesional)
 - [🛠️ Habilidades Técnicas](#️-habilidades-técnicas)
-- [🏆 Trofeos de GitHub](#-trofeos-de-github)
+- [🏆 Logros de GitHub](#-logros-de-github)
 - [📊 Estadísticas de GitHub](#-estadísticas-de-github)
 - [💼 Experiencia Profesional](#-experiencia-profesional)
 - [🎓 Educación](#-educación)
@@ -107,13 +107,21 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 
 ---
 
-## 🏆 Trofeos de GitHub
+## 🏆 Logros de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrea-lopez-dev&theme=onedark&no-frame=true&column=7&row=1" 
-       alt="GitHub Trophies" 
-       width="100%" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
+       alt="Pull Shark" 
+       width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" 
+       alt="YOLO" 
+       width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" 
+       alt="Starstruck" 
+       width="80" />
 </p>
+
+> **Nota:** Estos son los logros oficiales de GitHub. Aparecen automáticamente en tu perfil cuando los ganas. Para verlos, activa la opción en **Settings → Profile → Show Achievements**.
 
 ---
 
