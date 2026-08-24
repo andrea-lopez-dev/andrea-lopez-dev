@@ -36,7 +36,6 @@
 
 - [🚀 Perfil Profesional](#-perfil-profesional)
 - [🛠️ Habilidades Técnicas](#️-habilidades-técnicas)
-- [🏆 Logros de GitHub](#-logros-de-github)
 - [📊 Estadísticas de GitHub](#-estadísticas-de-github)
 - [💼 Experiencia Profesional](#-experiencia-profesional)
 - [🎓 Educación](#-educación)
@@ -107,24 +106,6 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 
 ---
 
-## 🏆 Logros de GitHub
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" 
-       alt="Pull Shark" 
-       width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" 
-       alt="YOLO" 
-       width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" 
-       alt="Starstruck" 
-       width="80" />
-</p>
-
-> **Nota:** Estos son los logros oficiales de GitHub. Aparecen automáticamente en tu perfil cuando los ganas. Para verlos, activa la opción en **Settings → Profile → Show Achievements**.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -145,16 +126,19 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 
 *Liderazgo técnico de equipo de 6 integrantes (Metodología FDD)*
 
-- Proyecto end-to-end con principios SOLID, patrones GoF, Service Layer y Repository en Laravel (MVC backend + MVVM frontend).
-- Frontend SPA con Angular (RxJS, Lazy Loading, WebSockets) y modelos 3D con Three.js.
-- Seguridad Zero-Trust: JWT, Sanctum, MFA (OTP), RBAC, AES-256 y auditoría de eventos con patrón Observer.
-- IA: Pipeline RAG con pgvector (búsqueda semántica) y asistente NLP/NLU.
-- Base de datos en 3FN, ACID, e integración cloud (Supabase, Backblaze B2).
+- 🔹 **Arquitectura Backend:** Implementación de principios SOLID, patrones GoF, Service Layer y Repository en Laravel (MVC backend + MVVM frontend).
+- 🔹 **Frontend SPA:** Desarrollo con Angular (RxJS, Lazy Loading, WebSockets) y modelos 3D con Three.js.
+- 🔹 **Seguridad Zero-Trust:** Implementación de JWT, Sanctum, MFA (OTP), RBAC, AES-256 y auditoría de eventos con patrón Observer.
+- 🔹 **IA Generativa:** Pipeline RAG con pgvector (búsqueda semántica) y asistente NLP/NLU.
+- 🔹 **Base de Datos:** Modelado en 3FN, ACID, e integración cloud (Supabase, Backblaze B2).
 
 **📊 Resultados:**
-- ✅ CSAT: 95.71%
-- ✅ SUS: 82.5/100
-- ✅ ROI: 819.088% (5 años)
+
+| Métrica | Valor | Barra |
+|---------|-------|-------|
+| CSAT | 95.71% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| SUS | 82.5/100 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+| ROI | 819.088% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 
 ---
 
@@ -163,14 +147,17 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 
 *Liderazgo técnico de equipo de 6 personas (Metodología Waterfall)*
 
-- Proyecto end-to-end. Sistema académico con arquitectura MVC en PHP y MySQL.
-- Base de datos normalizada en 3FN con propiedades ACID.
-- Motor de reportes y boletines en PDF (FPDF) con visor interactivo.
+- 🔹 **Sistema Académico:** Desarrollo con arquitectura MVC en PHP y MySQL.
+- 🔹 **Base de Datos:** Modelado normalizado en 3FN con propiedades ACID.
+- 🔹 **Reportes PDF:** Motor de boletines y reportes en PDF (FPDF) con visor interactivo.
 
 **📊 Resultados:**
-- ✅ 70% reducción de tiempo administrativo
-- ✅ 85% reducción de errores humanos
-- ✅ 100% reportes automáticos
+
+| Métrica | Valor | Barra |
+|---------|-------|-------|
+| Reducción de tiempo administrativo | 70% | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ |
+| Reducción de errores humanos | 85% | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ |
+| Reportes automáticos | 100% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 
 ---
 
@@ -179,12 +166,16 @@ Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (R
 
 *Liderazgo técnico de equipo de 7 personas (Metodología XP)*
 
-- Proyecto end-to-end. Plataforma E-commerce (MVP) con arquitectura MVC en PHP, MySQL, Ajax y JavaScript.
-- Módulos de Supply Chain, Ventas y Cálculo de IVA con lógica de negocio compleja.
-- Panel admin con métricas, generación de códigos de barras (TCPDF), tickets de venta y comprobantes con numeración automática.
+- 🔹 **Plataforma E-commerce:** Desarrollo MVP con arquitectura MVC en PHP, MySQL, Ajax y JavaScript.
+- 🔹 **Módulos de Negocio:** Supply Chain, Ventas y Cálculo de IVA con lógica de negocio compleja.
+- 🔹 **Panel Administrativo:** Métricas, generación de códigos de barras (TCPDF), tickets de venta y comprobantes con numeración automática.
 
 **📊 Resultados:**
-- ✅ 100% automatización de inventario y ventas
+
+| Métrica | Valor | Barra |
+|---------|-------|-------|
+| Automatización de inventario | 100% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
+| Automatización de ventas | 100% | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |
 
 ---
 
