@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://andrea-lopez-dev-six.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;Construyo+software+que+dura+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;Construyo+software+que+dura+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,6 +27,10 @@
 
 <br/><br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" />
+
+</div>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrea-lopez-dev&color=7C3AED&style=for-the-badge&label=VISITAS+AL+PERFIL)
@@ -36,7 +40,6 @@
 </div>
 
 ---
-
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sobre mí
 
@@ -68,34 +71,30 @@ const andreaLopez = {
 
 <br clear="right"/>
 
-
-> 💡 **Nota:** El GIF `L1R1tvI9svkIWwpVYr` es una chica morena programando. Si prefieres otro, revisa la lista que te di antes y solo cambia la URL del `src`.
-
----
-
-## 📦 BLOQUE 4 — Stack tecnológico
-
-```markdown
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Stack Tecnológico
 
 <div align="center">
 
 ### 🎨 Frontend & UI/UX
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,bootstrap,tailwind,jquery,threejs,figma&theme=dark&perline=10" />
 </a>
 
 ### ⚙️ Backend & Bases de Datos
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,symfony,python,postgres,mysql,mongodb,supabase&theme=dark&perline=10" />
 </a>
 
 ### 🛠️ Herramientas & DevOps
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,vercel,netlify,postman&theme=dark&perline=10" />
 </a>
 
 ### 🔐 Arquitectura & Seguridad
+
 <p>
   <img src="https://img.shields.io/badge/SOLID-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/MVC-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
@@ -107,6 +106,7 @@ const andreaLopez = {
 </p>
 
 ### 🤖 IA & Machine Learning
+
 <p>
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/LLM-06B6D4?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" />
@@ -115,6 +115,7 @@ const andreaLopez = {
 </p>
 
 ### 📊 Metodologías & Testing
+
 <p>
   <img src="https://img.shields.io/badge/Scrum-7C3AED?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Kanban-06B6D4?style=for-the-badge&labelColor=1a1a2e" />
@@ -162,24 +163,19 @@ const andreaLopez = {
 
 ---
 
-
 ## 🐍 Mi Contribución en Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" 
-       src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
-
 
 ## 🚀 Proyectos Destacados
 
@@ -198,14 +194,12 @@ const andreaLopez = {
 
 | 🚀 Proyecto | 📝 Descripción | 🛠️ Stack |
 |:-----------:|:---------------|:--------:|
-| **[SIGPAZ](https://github.com/andrea-lopez-dev/sigpaz)** | Sistema de justicia comunitaria con IA generativa | Laravel · Angular · PostgreSQL · RAG |
-| **[SIGENOR](https://github.com/andrea-lopez-dev/sigenor)** | Sistema de gestión académica institucional | PHP · MySQL · JavaScript · FPDF |
-| **[SIEP](https://github.com/andrea-lopez-dev/siep)** | E-commerce con panel administrativo | PHP · MySQL · jQuery · TCPDF |
-| **[Project Celestia](https://github.com/andrea-lopez-dev/project-celestia)** | Visor técnico de sprites PNG con Three.js | Three.js · WebGL · ES6 |
+| **SIGPAZ** | Sistema de justicia comunitaria con IA generativa | Laravel · Angular · PostgreSQL · RAG |
+| **SIGENOR** | Sistema de gestión académica institucional | PHP · MySQL · JavaScript · FPDF |
+| **SIEP** | E-commerce con panel administrativo | PHP · MySQL · jQuery · TCPDF |
+| **Project Celestia** | Visor técnico de sprites PNG con Three.js | Three.js · WebGL · ES6 |
 
 ---
-
-
 
 ## 💼 Experiencia Profesional
 
@@ -258,8 +252,6 @@ const andreaLopez = {
 
 ---
 
-
-
 ## 📜 Certificaciones
 
 <div align="center">
@@ -300,7 +292,7 @@ const andreaLopez = {
 
 <div align="center">
 
-**🎯 Total: 12 certificaciones profesionales** · **6 instituciones** · **Cobertura en 4 áreas técnicas**
+**🎯 Total: 12 certificaciones profesionales · 6 instituciones · Cobertura en 4 áreas técnicas**
 
 </div>
 
@@ -318,7 +310,6 @@ const andreaLopez = {
 </div>
 
 ---
-
 
 ## 🌐 Idiomas
 
@@ -350,8 +341,6 @@ const andreaLopez = {
 
 ---
 
-
-
 ## 🤝 Conectemos
 
 <div align="center">
@@ -376,19 +365,8 @@ const andreaLopez = {
 
 </div>
 
-
 <div align="center">
 
 <sub>© 2026 Andrea López · Hecho con ❤️ y mucho ☕ · Powered by 💜 + 🩵</sub>
-
-</div>
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" />
 
 </div>
