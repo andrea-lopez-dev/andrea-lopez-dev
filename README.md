@@ -38,7 +38,7 @@
 </div>
 
 <!-- ============================================================
-     CONTADOR DE VISITAS AL PERFIL
+     CONTADOR DE VISITAS
      ============================================================ -->
 <div align="center">
 
@@ -51,11 +51,11 @@
 ---
 
 <!-- ============================================================
-     SECCIÓN: SOBRE MÍ
+     SOBRE MÍ — CHICA PROGRAMADORA MORENA
      ============================================================ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sobre mí
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="Chica programadora" width="400" src="https://user-images.githubusercontent.com/74038190/236544207-c4f2f3b1-6f0c-4f9d-b1f5-3c5c5b5c5b5c.gif" />
 
 ```javascript
 const andreaLopez = {
@@ -82,23 +82,23 @@ const andreaLopez = {
 };
 
 <br clear="right"/>
-<!-- ============================================================ SECCIÓN: STACK TECNOLÓGICO ============================================================ -->
+<!-- ============================================================ STACK TECNOLÓGICO — ICONOS SÚPER MODERNOS ============================================================ -->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Stack Tecnológico
 <div align="center">
 🎨 Frontend & UI/UX
-<p> <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,bootstrap,tailwind,jquery,threejs,figma&theme=dark&perline=10" /> </p>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,bootstrap,tailwind,jquery,threejs,figma&theme=dark&perline=10" /> </a>
 ⚙️ Backend & Bases de Datos
-<p> <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,symfony,python,postgres,mysql,mongodb,supabase&theme=dark&perline=10" /> </p>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,symfony,python,postgres,mysql,mongodb,supabase&theme=dark&perline=10" /> </a>
+🛠️ Herramientas & DevOps
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,vercel,netlify,postman&theme=dark&perline=10" /> </a>
 🔐 Arquitectura & Seguridad
-<p> <img src="https://img.shields.io/badge/SOLID-7C3AED?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/MVC-06B6D4?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Microservicios-EC4899?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Zero--Trust-EF4444?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/AES--256-06B6D4?style=for-the-badge&logoColor=white" /> </p>
+<p> <img src="https://img.shields.io/badge/SOLID-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/MVC-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/Microservicios-EC4899?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/Zero--Trust-EF4444?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/AES--256-06B6D4?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> </p>
 🤖 IA & Machine Learning
-<p> <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-06B6D4?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/NLP%2FNLU-EC4899?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
-☁️ Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify&theme=dark&perline=10" /> </p>
+<p> <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/LLM-06B6D4?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/NLP%2FNLU-EC4899?style=for-the-badge&logoColor=white&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" /> </p>
 📊 Metodologías & Testing
-<p> <img src="https://img.shields.io/badge/Scrum-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kanban-06B6D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/XP-EC4899?style=for-the-badge" /> <img src="https://img.shields.io/badge/FDD-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/TDD-22C55E?style=for-the-badge" /> <img src="https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white" /> </p></div>
+<p> <img src="https://img.shields.io/badge/Scrum-7C3AED?style=for-the-badge&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/Kanban-06B6D4?style=for-the-badge&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/XP-EC4899?style=for-the-badge&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/FDD-7C3AED?style=for-the-badge&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/TDD-22C55E?style=for-the-badge&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a2e" /> </p></div>
 <!-- ============================================================ GITHUB STATS ============================================================ -->
-📊 Mis Estadísticas de GitHub
+📊 Mis Estadísticas
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrea-lopez-dev&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED&include_all_commits=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-lopez-dev&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&border_color=7C3AED&langs_count=8" /></div><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-lopez-dev&theme=radical&background=0D1117&border=7C3AED&stroke=7C3AED&ring=06B6D4&fire=EC4899&currStreakLabel=7C3AED&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></div><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=andrea-lopez-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" /></div>
 <!-- ============================================================ ACTIVITY GRAPH ============================================================ -->
 📈 Actividad Reciente
@@ -158,7 +158,7 @@ Liderazgo de equipo de 7 personas · Metodología XP
 Resultados: 100% automatización de inventario y ventas
 
 </details>
-<!-- ============================================================ CERTIFICACIONES — LISTA COMPLETA ============================================================ -->
+<!-- ============================================================ CERTIFICACIONES ============================================================ -->
 📜 Certificaciones
 <div align="center">
 🎓 Formación Académica & Desarrollo
@@ -199,7 +199,7 @@ UPTMA	TSU en Informática	2018 – 2024	Primer lugar
 🇪🇸 Español	Nativo	Comunicación profesional completa
 🇬🇧 Inglés	A2	Lectura técnica y comprensión
 </div>
-<!-- ============================================================ FRASE / QUOTE ============================================================ -->
+<!-- ============================================================ FILOSOFÍA ============================================================ -->
 💭 Mi Filosofía
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 "No me interesa solo que el código compile.
@@ -214,7 +214,7 @@ Me interesa que la solución dure."
 
 
 
-<!-- Footer animado --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20✨&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%" /></div><!-- ============================================================ FIRMA ============================================================ --><div align="center">
+<!-- Wave footer animado --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20✨&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%" /></div><!-- ============================================================ FIRMA ============================================================ --><div align="center">
 <sub>© 2026 Andrea López · Hecho con ❤️ y mucho ☕ · Powered by 💜 + 🩵</sub>
 
 </div> ```
