@@ -98,21 +98,21 @@
 
 | 🚀 Proyecto | 📝 Descripción | 🛠️ Stack |
 |:-----------:|:---------------|:--------:|
-| **SIGPAZ** | Sistema de justicia comunitaria con IA generativa | Laravel · Angular · PostgreSQL · RAG |
-| **SIGENOR** | Sistema de gestión académica institucional | PHP · MySQL · JavaScript · FPDF |
-| **SIEP** | E-commerce con panel administrativo | PHP · MySQL · jQuery · TCPDF |
-| **Project Celestia** | Visor técnico de sprites PNG con Three.js | Three.js · WebGL · ES6 |
+| **SIGPAZ** | Sistema de justicia comunitaria con IA generativa | Laravel \| Angular \| PostgreSQL \| RAG |
+| **SIGENOR** | Sistema de gestión académica institucional | PHP \| MySQL \| JavaScript \| FPDF |
+| **SIEP** | E-commerce con panel administrativo | PHP \| MySQL \| jQuery \| TCPDF |
+| **Project Celestia** | Visor técnico de sprites PNG con Three.js | Three.js \| WebGL \| ES6 |
 
 ---
 
 ## 💼 Experiencia Profesional
 
 <details open>
-<summary><b>🏛️ SIGPAZ — Módulo de Justicia de Paz Comunal</b></summary>
+<summary><b>🏛️ SIGPAZ | Módulo de Justicia de Paz Comunal</b></summary>
 <br/>
 
 **Analista de Sistemas & Full Stack Developer** | `07/2025 – 07/2026`
-*Liderazgo de equipo de 6 personas · Metodología FDD*
+*Liderazgo de equipo de 6 personas | Metodología FDD*
 
 - 🏗️ Arquitectura Backend con SOLID, GoF, Service Layer y Repository (Laravel)
 - 🎨 Frontend SPA con Angular (RxJS, Lazy Loading, WebSockets) + Three.js
@@ -120,31 +120,31 @@
 - 🤖 IA Generativa: Pipeline RAG (pgvector) + asistente NLP/NLU
 - 🗄️ Base de datos 3FN + ACID + integración cloud (Supabase, Backblaze B2)
 
-**Resultados:** `CSAT 95.71%` · `SUS 82.5/100` · `ROI 819.088%`
+**Resultados:** `CSAT 95.71%` | `SUS 82.5/100` | `ROI 819.088%`
 
 </details>
 
 <details>
-<summary><b>🎓 SIGENOR — U.E. Nocturna Br. Rafael Rangel</b></summary>
+<summary><b>🎓 SIGENOR | U.E. Nocturna Br. Rafael Rangel</b></summary>
 <br/>
 
 **Analista de Sistemas & Full Stack Developer** | `2024 – 2025`
-*Liderazgo de equipo de 6 personas · Metodología Waterfall*
+*Liderazgo de equipo de 6 personas | Metodología Waterfall*
 
 - 🏗️ Sistema académico con arquitectura MVC en PHP y MySQL
 - 🗄️ Base de datos normalizada en 3FN con propiedades ACID
 - 📄 Motor de reportes y boletines en PDF (FPDF)
 
-**Resultados:** `-70% tiempo admin` · `-85% errores humanos` · `100% reportes auto`
+**Resultados:** `-70% tiempo admin` | `-85% errores humanos` | `100% reportes auto`
 
 </details>
 
 <details>
-<summary><b>📚 SIEP — Papelería ISA&CRIS</b></summary>
+<summary><b>📚 SIEP | Papelería ISA&CRIS</b></summary>
 <br/>
 
 **Analista de Sistemas & Full Stack Developer** | `2023 – 2024`
-*Liderazgo de equipo de 7 personas · Metodología XP*
+*Liderazgo de equipo de 7 personas | Metodología XP*
 
 - 🏗️ Plataforma E-commerce (MVP) con MVC en PHP, MySQL, Ajax, JS
 - 💼 Módulos de Supply Chain, Ventas y Cálculo de IVA
@@ -190,7 +190,7 @@
 | Data Science con IA | **BIG School** | 2026 |
 | Acelerador de Carrera con Power BI + IA | **DAXUS** | 2026 |
 
-**🎯 Total: 12 certificaciones profesionales · 6 instituciones · 4 áreas técnicas**
+**🎯 Total: 12 certificaciones profesionales | 6 instituciones | 4 áreas técnicas**
 
 ---
 
@@ -198,7 +198,7 @@
 
 | 🏛️ Institución | 📚 Título | 📅 Año | 🏆 Logro |
 |:--------------:|:--------:|:------:|:--------:|
-| **UPTMA** | Ingeniería en Informática | 2018 – 2026 | GPA 3.6/4.0 · Honores |
+| **UPTMA** | Ingeniería en Informática | 2018 – 2026 | GPA 3.6/4.0 \| Honores |
 | **UPTMA** | TSU en Informática | 2018 – 2024 | Primer lugar |
 
 ---
@@ -208,7 +208,7 @@
 | 🗣️ Idioma | 📊 Nivel | 🎯 Uso |
 |:---------:|:--------:|:------:|
 | 🇪🇸 **Español** | Nativo | Comunicación profesional completa |
-| 🇬🇧 **Inglés** | A2 | Lectura técnica y comprensión |
+| 🇬🇧 **Inglés** | Competencia Básica Profesional | Lectura técnica y comprensión |
 
 ---
 
@@ -252,6 +252,6 @@
 
 <div align="center">
 
-<sub>© 2026 Andrea López · Hecho con ❤️ y mucho ☕</sub>
+<sub>© 2026 Andrea López | Hecho con ❤️ y mucho ☕</sub>
 
 </div>
