@@ -30,7 +30,7 @@
 <br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andrea-lopez-dev.andrea-lopez-dev&left_color=7C3AED&right_color=000000&left_text=Visitas" alt="Visitas al perfil" />
-<a href="mailto:andrealopez192401@gmail.com">
+<a href="mailto:andrealopezdev.stem@gmail.com">
   <img src="https://img.shields.io/badge/📬_Contacto-andrealopez192401@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Contacto" />
 </a>
 
