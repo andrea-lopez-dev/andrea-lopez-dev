@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;Arquitecturas+s%C3%B3lidas+con+interfaces+que+invitan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;C%C3%B3digo+limpio+%7C+UX+cuidada" alt="Typing SVG" />
 
 <br/>
 
@@ -99,6 +99,98 @@
 </p>
 
 </div>
+
+---
+
+## 📈 Mi Actividad de Desarrollo
+
+<div align="center">
+
+**📈 Resumen de Trayectoria Profesional**
+
+<img src="https://img.shields.io/badge/+3_años-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/4_proyectos-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/4_metodologías-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/100%25_remoto-7C3AED?style=for-the-badge" />
+
+</div>
+
+### 📊 Historial de Desarrollo por Proyecto
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">🚀 Proyecto</th>
+      <th align="center">📅 Período</th>
+      <th align="center">🔄 Metodología</th>
+      <th align="center">🟪 Intensidad</th>
+      <th align="center">📊 Actividad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>SIEP</b><br/><sub>Papelería ISA&CRIS</sub></td>
+      <td align="center"><code>Ene 2023<br/>Ago 2024</code></td>
+      <td align="center">Cascada secuencial</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Media--Alta-7C3AED?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Desarrollo-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Diseño-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Mantenimiento-06B6D4?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>SIGENOR</b><br/><sub>U.E. Nocturna Br. Rafael Rangel</sub></td>
+      <td align="center"><code>Oct 2024<br/>Jun 2025</code></td>
+      <td align="center">Waterfall</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Media--Alta-7C3AED?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Desarrollo-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Diseño-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Mantenimiento-06B6D4?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>SIGPAZ</b><br/><sub>Justicia de Paz Comunal</sub></td>
+      <td align="center"><code>Jul 2025<br/>Jun 2026</code></td>
+      <td align="center">FDD · 12 Sprints</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Alta-EC4899?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Desarrollo-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Diseño-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/IA%20%2B%20RAG-EC4899?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Nuevo Desarrollo</b><br/><sub>En curso</sub></td>
+      <td align="center"><code>Ago 2026<br/>Hoy</code></td>
+      <td align="center">En definición</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/En%20curso-06B6D4?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Diagnóstico-7C3AED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Diseño-7C3AED?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 🎯 Niveles de Intensidad
+
+| Nivel | Color | Significado |
+|:-----:|:-----:|:------------|
+| **4** | 🟪🟦 | Desarrollo y construcción |
+| **3** | 🟪 | Diseño, pruebas, planificación |
+| **2** | 🟪 | Diagnóstico e implementación |
+| **1** | 🟪 | Mantenimiento y revisiones |
+| **0** | ⬛ | Sin actividad |
 
 ---
 
