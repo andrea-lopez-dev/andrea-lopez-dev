@@ -124,11 +124,15 @@
 
 <div align="center">
 
-<img src="assets/github-graph.webp" width="100%" alt="Gráfico de contribuciones de Andrea López" />
+<img src="assets/github-graph.webp" width="100%" alt="Gráfico de contribuciones de Andrea López" style="border-radius: 12px; margin-bottom: 40px;" />
 
 </div>
 
-<br/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%" />
+
+<br/><br/>
 
 ### 📋 Historial de Desarrollo por Proyecto
 
