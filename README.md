@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/main/github-graph.svg" width="100%" alt="Gráfico de contribuciones de Andrea López" />
+<img src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/main/assets/github-graph.svg" width="100%" alt="Gráfico de contribuciones de Andrea López" />
 
 </div>
 
@@ -193,20 +193,6 @@
     </tr>
   </tbody>
 </table>
-
-### 🎯 Niveles de Intensidad
-
-<div align="center">
-
-| Nivel | Color | Significado |
-|:-----:|:-----:|:------------|
-| **4** | 🟪🟦 | Desarrollo y construcción |
-| **3** | 🟪 | Diseño, pruebas, planificación |
-| **2** | 🟪 | Diagnóstico e implementación |
-| **1** | 🟪 | Mantenimiento y revisiones |
-| **0** | ⬛ | Sin actividad |
-
-</div>
 
 ---
 
