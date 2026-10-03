@@ -1,228 +1,220 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/main/assets/banner.png" 
-       alt="Banner Andrea López" 
-       width="100%" 
-       style="border-radius: 12px; margin-bottom: 20px;">
-</p>
+<!-- ============================================================
+     BANNER ANIMADO CON TYPING EFFECT
+     ============================================================ -->
+<div align="center">
 
-<h1 align="center">Andrea López</h1>
+<a href="https://andrea-lopez-dev-six.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;Construyo+software+que+dura+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <em>Analista de Sistemas & Full Stack Developer</em>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://andrea-lopez-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-andrea--lopez--dev.vercel.app-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<!-- Badges de presentación animados -->
+<img src="https://img.shields.io/badge/📍_Maracaibo,_Venezuela-🇻🇪-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼_Disponible-para_proyectos-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌎_100%25-Remoto-EC4899?style=for-the-badge" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubicación-Maracaibo%2C%20Venezuela-blue?style=flat-square" />
-  <a href="mailto:andrealopez192401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-andrealopez192401%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/andrea-lópez-370039319">
-    <img src="https://img.shields.io/badge/LinkedIn-andrea--lópez-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/andrea-lopez-dev">
-    <img src="https://img.shields.io/badge/GitHub-andrea--lopez--dev-100000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
----
+<!-- Redes sociales con iconos grandes -->
+<a href="https://andrea-lopez-dev-six.vercel.app/">
+  <img src="https://img.shields.io/badge/Portafolio-andrea--lopez--dev--six.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/andrea-lópez-370039319">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/andrea-lopez-dev">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:andrealopez192401@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
 
-## 📑 Índice
+<br/><br/>
 
-- [🚀 Perfil Profesional](#-perfil-profesional)
-- [🛠️ Habilidades Técnicas](#️-habilidades-técnicas)
-- [💼 Experiencia Profesional](#-experiencia-profesional)
-- [🎓 Educación](#-educación)
-- [📜 Certificaciones](#-certificaciones)
-- [🌐 Idiomas](#-idiomas)
-- [📫 Contacto](#-contacto)
+<!-- Divisor animado -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" />
 
----
+</div>
 
-## 🚀 Perfil Profesional
+<!-- ============================================================
+     CONTADOR DE VISITAS AL PERFIL
+     ============================================================ -->
+<div align="center">
 
-Ingeniera en Informática con más de **3 años de experiencia** en análisis de sistemas, modelado de datos (3FN, ACID) y desarrollo Full Stack bajo metodologías ágiles. Combino una sólida arquitectura técnica (SOLID, MVC, Microservicios) con un enfoque centrado en la **Experiencia de Usuario (UX/UI)**, garantizando que las soluciones sean escalables, seguras y altamente intuitivas.
+![Profile Views](https://komarev.com/ghpvc/?username=andrea-lopez-dev&color=7C3AED&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![GitHub followers](https://img.shields.io/github/followers/andrea-lopez-dev?color=06B6D4&style=for-the-badge&label=SEGUIDORES&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/andrea-lopez-dev?color=EC4899&style=for-the-badge&label=STARS&logo=github)
 
-Lidero equipos multidisciplinarios integrando **seguridad Zero-Trust** e **IA (RAG, LLM)** bajo estándares de usabilidad (ISO 9241-11). La generación integral de manuales de usuario y manuales técnicos en todos mis proyectos end-to-end asegura una curva de aprendizaje mínima y la máxima adopción del producto final.
+</div>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+<!-- ============================================================
+     SECCIÓN: SOBRE MÍ
+     ============================================================ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sobre mí
 
-### Backend & Bases de Datos
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### Frontend & UI/UX
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-049EF4?style=for-the-badge&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+```javascript
+const andreaLopez = {
+  pronouns: "she" | "her",
+  ubicacion: "Maracaibo, Venezuela 🇻🇪",
+  rol: "Analista de Sistemas & Full Stack Developer",
+  experiencia: "+3 años",
+  
+  codigo: {
+    backend:  ["Laravel", "PHP", "Node.js", "Symfony", "Python"],
+    frontend: ["Angular", "TypeScript", "RxJS", "Three.js", "Tailwind"],
+    baseDatos: ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
+  },
+  
+  arquitectura: ["SOLID", "MVC", "Microservicios", "Clean Architecture"],
+  seguridad: ["Zero-Trust", "JWT", "MFA", "RBAC", "AES-256"],
+  ia: ["RAG", "LLM", "NLP/NLU", "pgvector"],
+  
+  filosofia: "No solo escribo código. Diseño soluciones que duran.",
+  datoCurioso: "He entrenado a jueces, profesores y dueños de papelería para usar mis sistemas.",
+  
+  desafioActual: "Integrando IA generativa en sistemas de justicia comunitaria",
+  funFact: "Pienso en UML antes de dormir 🧠"
+};
 
-### Arquitectura & Seguridad
-![SOLID](https://img.shields.io/badge/SOLID-Architecture-blue?style=for-the-badge)
-![Microservicios](https://img.shields.io/badge/Microservicios-Architecture-blue?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-Architecture-blue?style=for-the-badge)
-![Zero-Trust](https://img.shields.io/badge/Zero--Trust-Security-red?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Security-red?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-Security-red?style=for-the-badge)
-![AES-256](https://img.shields.io/badge/AES--256-Security-red?style=for-the-badge)
+<br clear="right"/>
+<!-- ============================================================ SECCIÓN: STACK TECNOLÓGICO ============================================================ -->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Stack Tecnológico
+<div align="center">
+🎨 Frontend & UI/UX
+<p> <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,bootstrap,tailwind,jquery,threejs,figma&theme=dark&perline=10" /> </p>
+⚙️ Backend & Bases de Datos
+<p> <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,symfony,python,postgres,mysql,mongodb,supabase&theme=dark&perline=10" /> </p>
+🔐 Arquitectura & Seguridad
+<p> <img src="https://img.shields.io/badge/SOLID-7C3AED?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/MVC-06B6D4?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Microservicios-EC4899?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Zero--Trust-EF4444?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/AES--256-06B6D4?style=for-the-badge&logoColor=white" /> </p>
+🤖 IA & Machine Learning
+<p> <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-06B6D4?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/NLP%2FNLU-EC4899?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+☁️ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify&theme=dark&perline=10" /> </p>
+📊 Metodologías & Testing
+<p> <img src="https://img.shields.io/badge/Scrum-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kanban-06B6D4?style=for-the-badge" /> <img src="https://img.shields.io/badge/XP-EC4899?style=for-the-badge" /> <img src="https://img.shields.io/badge/FDD-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/TDD-22C55E?style=for-the-badge" /> <img src="https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white" /> </p></div>
+<!-- ============================================================ GITHUB STATS ============================================================ -->
+📊 Mis Estadísticas de GitHub
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrea-lopez-dev&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED&include_all_commits=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-lopez-dev&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&border_color=7C3AED&langs_count=8" /></div><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-lopez-dev&theme=radical&background=0D1117&border=7C3AED&stroke=7C3AED&ring=06B6D4&fire=EC4899&currStreakLabel=7C3AED&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></div><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=andrea-lopez-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" /></div>
+<!-- ============================================================ ACTIVITY GRAPH ============================================================ -->
+📈 Actividad Reciente
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=andrea-lopez-dev&bg_color=0D1117&color=7C3AED&line=06B6D4&point=EC4899&area=true&hide_border=true&custom_title=Contribuciones%20de%20Andrea%20L%C3%B3pez" width="100%" /></div>
+<!-- ============================================================ SNAKE GAME ============================================================ -->
+🐍 Mi Contribución en Snake
+<div align="center"><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/output/github-contribution-grid-snake.svg" /> </picture></div>
+<!-- ============================================================ PROYECTOS DESTACADOS ============================================================ -->
+🚀 Proyectos Destacados
+<div align="center"><a href="https://github.com/andrea-lopez-dev/sigenor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-lopez-dev&repo=sigenor&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED" /> </a> <a href="https://github.com/andrea-lopez-dev/siep"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-lopez-dev&repo=siep&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED" /> </a></div>
+🏆 Casos de Estudio
+🚀 Proyecto	📝 Descripción	🛠️ Stack
+SIGPAZ	Sistema de justicia comunitaria con IA generativa	Laravel · Angular · PostgreSQL · RAG
+SIGENOR	Sistema de gestión académica institucional	PHP · MySQL · JavaScript · FPDF
+SIEP	E-commerce con panel administrativo	PHP · MySQL · jQuery · TCPDF
+Project Celestia	Visor técnico de sprites PNG con Three.js	Three.js · WebGL · ES6
+<!-- ============================================================ EXPERIENCIA PROFESIONAL ============================================================ -->
+💼 Experiencia Profesional
+<details open> <summary><b>🏛️ SIGPAZ — Módulo de Justicia de Paz Comunal</b></summary> <br/>
+Analista de Sistemas & Full Stack Developer | 07/2025 – 07/2026
+Liderazgo de equipo de 6 personas · Metodología FDD
 
-### IA & Machine Learning
-![RAG](https://img.shields.io/badge/RAG-AI-purple?style=for-the-badge)
-![NLP/NLU](https://img.shields.io/badge/NLP%2FNLU-AI-purple?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM%20Orchestration-AI-purple?style=for-the-badge)
-![Búsqueda Semántica](https://img.shields.io/badge/Búsqueda%20Semántica-AI-purple?style=for-the-badge)
+🏗️ Arquitectura Backend con SOLID, GoF, Service Layer y Repository (Laravel)
 
-### Cloud & DevOps
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Backblaze B2](https://img.shields.io/badge/Backblaze%20B2-3ECF8E?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-DevOps-blue?style=for-the-badge)
-![Deploy](https://img.shields.io/badge/Deploy-DevOps-blue?style=for-the-badge)
+🎨 Frontend SPA con Angular (RxJS, Lazy Loading, WebSockets) + Three.js
 
-### Metodologías & Pruebas
-![Scrum](https://img.shields.io/badge/Scrum-Agile-green?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/Kanban-Agile-green?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-Agile-green?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-Testing-green?style=for-the-badge)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-green?style=for-the-badge)
-![Jasmine](https://img.shields.io/badge/Jasmine-Testing-green?style=for-the-badge)
+🔐 Seguridad Zero-Trust: JWT, MFA, RBAC, AES-256, auditoría con Observer
 
----
+🤖 IA Generativa: Pipeline RAG (pgvector) + asistente NLP/NLU
 
-## 💼 Experiencia Profesional
+🗄️ Base de datos 3FN + ACID + integración cloud (Supabase, Backblaze B2)
 
-### Analista de Sistemas & Full Stack Developer
-**SIGPAZ – Módulo de Justicia de Paz Comunal** | 07/2025 – 07/2026
+Resultados: CSAT 95.71% · SUS 82.5/100 · ROI 819.088%
 
-*Liderazgo técnico de equipo de 6 integrantes (Metodología FDD)*
+</details><details> <summary><b>🎓 SIGENOR — U.E. Nocturna Br. Rafael Rangel</b></summary> <br/>
+Analista de Sistemas & Full Stack Developer | 2024 – 2025
+Liderazgo de equipo de 6 personas · Metodología Waterfall
 
-- Arquitectura Backend con principios SOLID, patrones GoF, Service Layer y Repository en Laravel (MVC backend + MVVM frontend).
-- Frontend SPA con Angular (RxJS, Lazy Loading, WebSockets) y modelos 3D con Three.js.
-- Seguridad Zero-Trust con JWT, Sanctum, MFA (OTP), RBAC, AES-256 y auditoría de eventos con patrón Observer.
-- IA Generativa con Pipeline RAG (pgvector) y asistente NLP/NLU.
-- Base de datos en 3FN, ACID, e integración cloud (Supabase, Backblaze B2).
+🏗️ Sistema académico con arquitectura MVC en PHP y MySQL
 
-**Resultados clave:**
-- CSAT: 95.71%
-- SUS: 82.5/100
-- ROI: 819.088% (5 años)
+🗄️ Base de datos normalizada en 3FN con propiedades ACID
 
----
+📄 Motor de reportes y boletines en PDF (FPDF)
 
-### Analista de Sistemas & Full Stack Developer
-**SIGENOR – U.E. Nocturna Br. Rafael Rangel**
+Resultados: -70% tiempo admin · -85% errores humanos · 100% reportes auto
 
-*Liderazgo técnico de equipo de 6 personas (Metodología Waterfall)*
+</details><details> <summary><b>📚 SIEP — Papelería ISA&CRIS</b></summary> <br/>
+Analista de Sistemas & Full Stack Developer | 2023 – 2024
+Liderazgo de equipo de 7 personas · Metodología XP
 
-- Sistema académico con arquitectura MVC en PHP y MySQL.
-- Base de datos normalizada en 3FN con propiedades ACID.
-- Motor de reportes y boletines en PDF (FPDF) con visor interactivo.
+🏗️ Plataforma E-commerce (MVP) con MVC en PHP, MySQL, Ajax, JS
 
-**Resultados clave:**
-- Reducción del 70% en tiempo administrativo
-- Reducción del 85% en errores humanos
-- 100% de reportes automáticos
+💼 Módulos de Supply Chain, Ventas y Cálculo de IVA
 
----
+🖨️ Panel admin con códigos de barras (TCPDF)
 
-### Analista de Sistemas & Full Stack Developer
-**SIEP – Papelería ISA&CRIS**
+Resultados: 100% automatización de inventario y ventas
 
-*Liderazgo técnico de equipo de 7 personas (Metodología XP)*
+</details>
+<!-- ============================================================ CERTIFICACIONES — LISTA COMPLETA ============================================================ -->
+📜 Certificaciones
+<div align="center">
+🎓 Formación Académica & Desarrollo
+🏆 Certificación	🏛️ Institución	📅 Año
+Desarrolladora de Aplicaciones	UPTMA	2026
+Soporte Técnico a Usuarios y Equipos	UPTMA	2026
+Backend usando PHP y MySQL	Cursa	2024
+PHP Tutoriales con Jonmirca	Cursa	2024
+Introducción a JavaScript	SoloLearn	2024
+☁️ Cloud & DevOps
+🏆 Certificación	🏛️ Institución	📅 Año
+Fundamentos de AWS: Cloud, Serverless y Operación	Commit Academy	2026
+🔐 Ciberseguridad & Forense
+🏆 Certificación	🏛️ Institución	📅 Año
+Ciberseguridad y Hacking Ético	BIG School	2026
+Fundamentos Básicos de la Informática Forense	SUSCERTE	2026
+🤖 IA, Data & Analytics
+🏆 Certificación	🏛️ Institución	📅 Año
+IA: De 0 a Agentes	BIG School	2026
+Desarrollo con IA: De 0 a Producción	BIG School	2026
+Data Science con IA	BIG School	2026
+Acelerador de Carrera con Power BI + IA	DAXUS	2026
+</div><div align="center">
+🎯 Total: 12 certificaciones profesionales · 6 instituciones · Cobertura en 4 áreas técnicas
 
-- Plataforma E-commerce (MVP) con arquitectura MVC en PHP, MySQL, Ajax y JavaScript.
-- Módulos de Supply Chain, Ventas y Cálculo de IVA con lógica de negocio compleja.
-- Panel admin con métricas, generación de códigos de barras (TCPDF), tickets de venta y comprobantes con numeración automática.
+</div>
+<!-- ============================================================ EDUCACIÓN ============================================================ -->
+🎓 Educación
+<div align="center">
+🏛️ Institución	📚 Título	📅 Año	🏆 Logro
+UPTMA	Ingeniería en Informática	2018 – 2026	GPA 3.6/4.0 · Honores
+UPTMA	TSU en Informática	2018 – 2024	Primer lugar
+</div>
+<!-- ============================================================ IDIOMAS ============================================================ -->
+🌐 Idiomas
+<div align="center">
+🗣️ Idioma	📊 Nivel	🎯 Uso
+🇪🇸 Español	Nativo	Comunicación profesional completa
+🇬🇧 Inglés	A2	Lectura técnica y comprensión
+</div>
+<!-- ============================================================ FRASE / QUOTE ============================================================ -->
+💭 Mi Filosofía
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+"No me interesa solo que el código compile.
+Me interesa que la solución dure."
 
-**Resultados clave:**
-- 100% de automatización de inventario y ventas
+— Andrea López
 
----
+</div>
+<!-- ============================================================ CONECTEMOS ============================================================ -->
+🤝 Conectemos
+<div align="center"><a href="https://andrea-lopez-dev-six.vercel.app/"> <img src="https://img.shields.io/badge/🌐_Portafolio-andrea--lopez--dev--six.vercel.app-7C3AED?style=for-the-badge&labelColor=000000" /> </a> <br/><br/> <a href="https://www.linkedin.com/in/andrea-lópez-370039319"> <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /> </a> <a href="https://github.com/andrea-lopez-dev"> <img src="https://img.shields.io/badge/🐙_GitHub-andrea--lopez--dev-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:andrealopez192401@gmail.com"> <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /> </a>
 
-## 🎓 Educación
 
-### Universidad Politécnica Territorial de Maracaibo (UPTMA)
-**Ingeniería en Informática** | 2018 – 2026
 
-- **GPA:** 3.6/4.0 (Honores – Primer lugar)
-- **Título:** Técnico Superior Universitario en Informática
+<!-- Footer animado --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20✨&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%" /></div><!-- ============================================================ FIRMA ============================================================ --><div align="center">
+<sub>© 2026 Andrea López · Hecho con ❤️ y mucho ☕ · Powered by 💜 + 🩵</sub>
 
----
-
-## 📜 Certificaciones
-
-### Desarrollo & Backend
-| Certificación | Institución | Año |
-|---------------|-------------|-----|
-| Desarrolladora de Aplicaciones | UPTMA | 2025 |
-| Backend (PHP/MySQL) | Cursa | 2024 |
-| Soporte Técnico | UPTMA | 2020 |
-
-### Ciberseguridad & Forense
-| Certificación | Institución | Año |
-|---------------|-------------|-----|
-| Ciberseguridad | BIG School | 2026 |
-| Ciberlenguaje | SUSCERTE | 2026 |
-| Informática Forense | SUSCERTE | 2026 |
-
-### IA, Data & Digital
-| Certificación | Institución | Año |
-|---------------|-------------|-----|
-| IA y Agentes | BIG School | 2026 |
-| Data Science | BIG School | 2026 |
-| Power BI + IA | DAXUS LATAM | 2026 |
-| Marketing Digital con IA | BIG School | 2026 |
-
----
-
-## 🌐 Idiomas
-
-| Idioma | Nivel |
-|--------|-------|
-| **Español** | Nativo |
-| **Inglés** | A2 (Lectura y comprensión técnica) |
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://andrea-lopez-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-Vercel-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:andrealopez192401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/andrea-lópez-370039319">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/andrea-lopez-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>© 2026 Andrea López. Todos los derechos reservados.</sub>
-</p>
-
-<p align="center">
-  <sub>Hecho con ❤️ y mucho café ☕</sub>
-</p>
+</div> ```
