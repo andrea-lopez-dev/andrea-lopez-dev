@@ -308,7 +308,7 @@
 | 🏛️ Institución | 📚 Título | 📅 Año | 🏆 Logro |
 |:--------------:|:--------:|:------:|:--------:|
 | **UPTMA** | Ingeniería en Informática | 2018 – 2026 | GPA 3.6/4.0 \| Honores |
-| **UPTMA** | TSU en Informática | 2018 – 2024 | Primer lugar |
+| **UPTMA** | TSU en Informática | 2024 | Primer lugar |
 
 ---
 
