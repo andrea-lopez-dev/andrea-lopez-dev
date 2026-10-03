@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;Construyo+software+que+dura+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hola%2C+soy+Andrea+L%C3%B3pez+%F0%9F%91%8B;Analista+de+Sistemas+%26+Full+Stack+Developer;Arquitecturas+s%C3%B3lidas+con+interfaces+que+invitan" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrea-lopez-dev&color=7C3AED&style=for-the-badge&label=VISITAS+AL+PERFIL)
 ![GitHub followers](https://img.shields.io/github/followers/andrea-lopez-dev?color=06B6D4&style=for-the-badge&label=SEGUIDORES&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/andrea-lopez-dev?color=EC4899&style=for-the-badge&label=STARS&logo=github)
 
 </div>
 
@@ -47,10 +46,10 @@
 
 - 🧠 Pienso antes de programar
 - 📝 Documento lo que construyo
+- 🎨 Diseño interfaces que invitan a usarse
 - 🤝 Entrego lo que prometo
-- 🛠️ Construyo para durar
 
-> *"No me interesa solo que el código compile. Me interesa que la solución dure."*
+> *"Arquitecturas sólidas con interfaces que invitan a usarlas."*
 > **— Andrea López**
 
 <br clear="right"/>
@@ -103,54 +102,7 @@
 
 ---
 
-## 📊 Mis Estadísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrea-lopez-dev&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-lopez-dev&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&border_color=7C3AED&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-lopez-dev&theme=radical&background=0D1117&border=7C3AED&stroke=7C3AED&ring=06B6D4&fire=EC4899&currStreakLabel=7C3AED&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=andrea-lopez-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-## 📈 Actividad Reciente
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrea-lopez-dev&bg_color=0D1117&color=7C3AED&line=06B6D4&point=EC4899&area=true&hide_border=true&custom_title=Contribuciones%20de%20Andrea%20L%C3%B3pez" width="100%" />
-
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/andrea-lopez-dev/sigenor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-lopez-dev&repo=sigenor&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED" />
-</a>
-<a href="https://github.com/andrea-lopez-dev/siep">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-lopez-dev&repo=siep&theme=radical&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&border_color=7C3AED" />
-</a>
-
-</div>
-
-### 🏆 Casos de Estudio
 
 | 🚀 Proyecto | 📝 Descripción | 🛠️ Stack |
 |:-----------:|:---------------|:--------:|
@@ -272,8 +224,7 @@
 
 <div align="center">
 
-> *"No me interesa solo que el código compile.*
-> *Me interesa que la solución dure."*
+> *"Arquitecturas sólidas con interfaces que invitan a usarlas."*
 >
 > **— Andrea López**
 
