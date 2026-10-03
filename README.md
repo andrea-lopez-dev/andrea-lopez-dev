@@ -150,7 +150,7 @@
     <tr>
       <td align="center"><b>SIEP</b><br/><sub>Papelería ISA&CRIS</sub></td>
       <td align="center"><code>Ene 2023<br/>Ago 2024</code></td>
-      <td align="center">Cascada secuencial</td>
+      <td align="center">XP</td>
       <td align="center">
         <img src="https://img.shields.io/badge/Media--Alta-7C3AED?style=flat-square" />
       </td>
