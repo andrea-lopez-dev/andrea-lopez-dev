@@ -188,7 +188,7 @@
     </tr>
     <tr>
       <td align="center"><b>Nuevo Desarrollo</b><br/><sub>En curso</sub></td>
-      <td align="center"><code>Ago 2026<br/>Hoy</code></td>
+      <td align="center"><code>Oct2026<br/></code></td>
       <td align="center">En definición</td>
       <td align="center">
         <img src="https://img.shields.io/badge/En%20curso-06B6D4?style=flat-square" />
