@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="320" alt="Chica morena programando" style="border-radius: 16px;" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Chica morena programando" />
 
 </div>
 
@@ -49,14 +49,10 @@
 
 **Ingeniera en Informática** con +3 años como **Analista de Sistemas & Full Stack Developer**. Combino la visión analítica del análisis con la ejecución técnica del desarrollo completo.
 
-<div align="center">
-
 - 🧠 Pienso antes de programar
 - 📝 Documento lo que construyo
 - 🎨 Diseño interfaces que invitan a usarse
 - 🤝 Entrego lo que prometo
-
-</div>
 
 ---
 
@@ -121,13 +117,17 @@
 
 <br/>
 
+### 📊 Gráfico de Contribuciones
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/main/github-graph.png" width="100%" alt="Gráfico de contribuciones de Andrea López" />
+<img src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/main/github-graph.svg" width="100%" alt="Gráfico de contribuciones de Andrea López" />
 
 </div>
 
-### 📊 Historial de Desarrollo por Proyecto
+<br/>
+
+### 📋 Historial de Desarrollo por Proyecto
 
 <table align="center">
   <thead>
@@ -312,27 +312,19 @@
 
 ## 🎓 Educación
 
-<div align="center">
-
 | 🏛️ Institución | 📚 Título | 📅 Año | 🏆 Logro |
 |:--------------:|:--------:|:------:|:--------:|
 | **UPTMA** | Ingeniería en Informática | 2018 – 2026 | GPA 3.6/4.0 \| Honores |
 | **UPTMA** | TSU en Informática | 2018 – 2024 | Primer lugar |
 
-</div>
-
 ---
 
 ## 🌐 Idiomas
-
-<div align="center">
 
 | 🗣️ Idioma | 📊 Nivel | 🎯 Uso |
 |:---------:|:--------:|:------:|
 | 🇪🇸 **Español** | Nativo | Comunicación profesional completa |
 | 🇬🇧 **Inglés** | Competencia Básica Profesional | Lectura técnica y comprensión |
-
-</div>
 
 ---
 
