@@ -29,7 +29,7 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/andrea-lopez-dev/andrea-lopez-dev.svg?style=for-the-badge&label=VISITAS+AL+PERFIL&color=7C3AED&labelColor=000000" />
+<img src="https://api.visitorbadge.io/api/visitors?path=andrea-lopez-dev.andrea-lopez-dev&label=VISITAS%20AL%20PERFIL&countColor=%237C3AED&labelColor=%23000000&style=for-the-badge" />
 
 <br/><br/>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andrea-lopez-dev/andrea-lopez-dev/main/assets/github-graph.svg" width="100%" alt="Gráfico de contribuciones de Andrea López" />
+<img src="assets/github-graph.webp" width="100%" alt="Gráfico de contribuciones de Andrea López" />
 
 </div>
 
